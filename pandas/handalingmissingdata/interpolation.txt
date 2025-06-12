@@ -1,0 +1,12 @@
+it is techinque in which we fill interpolated or estimated value
+which follow the exisisting trends
+use 
+1=preseve data integrity
+2=smooth trends
+3=avoid data loss
+4-provide data consistency
+
+syntax
+interpolate()
+method in is linear ploynomial and  time and more 
+but we use linear method
