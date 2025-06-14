@@ -1,6 +1,6 @@
 """
-.ravel()-> views it affect
-.flattens()->copy does not affect the orignal array
+.ravel()-> views (it affected)
+.flattens()->copy (does not affect the orignal array)
 """
 import numpy as np
 matrix= np.array([[2,4,6],
@@ -8,4 +8,4 @@ matrix= np.array([[2,4,6],
                   [2,3,4]])
 print(matrix.ravel())
 print(matrix.flatten())
-print(matrix)
+"""print(matrix)"""
